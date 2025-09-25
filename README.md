@@ -55,6 +55,5 @@ Name: Sandeep H
 
 Role: Web Developer
 
-GitHub: [Your GitHub Link]
+GitHub: https://sandeep12-stack.github.io/protfolio/
 
-Email: [Your Email]

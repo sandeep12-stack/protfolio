@@ -1,0 +1,117 @@
+.body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.container {
+    color: black;
+    margin: 30px;
+}
+
+.s1 {
+    color: aliceblue;
+    background-color: black;
+    margin: 30px;
+}
+
+.s2 {
+    padding: 10px;
+}
+
+.row1 {
+    padding: 10px;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+.row2 {
+    padding: 10px;
+    font-size: larger;
+}
+
+.onename {
+    border: none;
+    border-bottom: solid black 1px;
+    padding: 10px;
+    outline: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.twomail {
+    border: none;
+    border-bottom: solid black 1px;
+    padding: 10px;
+    outline: none;
+
+}
+
+.button1 {
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.buttonHome {
+    margin-left: 10px;
+    padding: 5px;
+    border-color: none;
+    background-color: rgb(235, 175, 135);
+    border-radius: 5px;
+    text-decoration: none;
+    color: red
+
+}
+
+.button5 {
+    margin-left: 100px;
+
+    margin-top: 10px;
+    padding: 5px;
+    border-color: skyblue;
+    background-color: skyblue;
+    border-radius: 5px;
+}
+.contactpage{
+
+    margin-left: 10px;
+    padding: 5px;
+    border-color: none;
+    background-color: rgb(247, 209, 160);
+    border-radius: 5px;
+    text-decoration: none;
+    color: blue
+
+}
+.About{
+margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.skill{
+margin: 5px;
+background-color: aqua;
+padding: 10px;
+border-radius: 5px;
+
+}
+.intrest{
+margin: 5px;
+background-color: tomato;
+padding: 10px;
+border-radius: 6px;
+
+}
+.project{
+margin: 5px;
+padding: 5px;
+list-style: none;
+}
+.box{
+    display: flex;
+    gap: 10px;
+   
+}
+.skill li,.intrest li{
+list-style: none;
+}
